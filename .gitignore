@@ -1,0 +1,20 @@
+# Ignore virtual environments & dependencies
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore site-packages (installed libraries)
+Documents/tds-project/dev/lib/python3.12/site-packages/
+
+# Ignore Git Large File Storage cache
+*.lfs*
+
+# Ignore large binary files
+*.dylib
+*.so
+*.bin
+*.tar.gz
+*.zip

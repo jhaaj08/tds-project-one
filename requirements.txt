@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+Pillow
+faker
+pytesseract
+sentence_transformers
+bs4
